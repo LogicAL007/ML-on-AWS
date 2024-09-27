@@ -1,4 +1,4 @@
-### PTwitter Sentiment Analysis with AWS Lambda
+### Twitter Sentiment Analysis with AWS Lambda
 
 This project demonstrates a serverless application that pulls recent tweets from Twitter, analyzes their sentiment, and stores the results in both an AWS S3 bucket and a PostgreSQL database. The main components include AWS Lambda, Twitter API integration, sentiment analysis using NLTK, and the interaction with AWS S3 and a relational database.
 
